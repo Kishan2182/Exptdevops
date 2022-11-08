@@ -1,9 +1,8 @@
-start = int(input("Enter the start of range: "))
-end = int(input("Enter the end of range: "))
- 
-# iterating each number in list
-for num in range(start, end + 1):
- 
-    # checking condition
-    if num % 2 == 0:
-        print(num, end=" ")
+
+def even(num1,num2):
+    if num1>num2:
+        return
+    print(num1,end=" ")
+    return even(num1+2,num2)
+num1=4;num2=15
+even(num1,num2)
