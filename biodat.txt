@@ -1,0 +1,124 @@
+<div>
+    <h1><center>Bio-Data</center></h1>
+
+    <hr width="45%" color="green"/>
+
+    <h3><center>Personal Details</center></h3>
+
+    <table border="1" width="80%" align="center">
+
+      <tr>
+
+        <th>Name</th>
+
+        <td>kishan</td>
+
+      </tr>
+
+        <tr>
+
+        <th>Father's Name</th>
+
+        <td>Yogendranath Mishra</td>
+
+      </tr>
+
+        <tr>
+
+        <th>Mother's Name </th>
+
+        <td>Sunaina Mishra</td>
+
+      </tr>
+
+       <tr>
+
+        <th>Address</th>
+
+        <td>Kalyan</td>
+
+      </tr>
+
+        <tr>
+
+        <th>Contact</th>
+
+        <td>8244325321<br/>
+
+        kishan21@gmail.com</td>
+
+      </tr>
+
+    </table>
+
+     <hr width="80%" color="green"/>
+
+    <h3><center> Educational Qualification</center> </h3>
+
+
+           <table border="1" width="80%" align="center">
+
+
+      <tr><th>Exam</th>
+
+        <th>Board</th>
+
+        <th>Institution</th>
+
+        <th>Year</th>
+
+        <th>Percentage</th>
+
+      </tr>
+
+      <tr>
+
+        <td>Madhyamik</td>
+
+        <td>Maharahtra</td>
+
+        <td>samrat ashok english school</td>
+
+        <td>2018</td>
+
+        <td>89%</td>
+
+      </tr>
+
+      <tr>
+
+        <td>Higher Secondary</td>
+
+        <td>Maharahtra</td>
+
+        <td>Rkt college</td>
+
+        <td>2021</td>
+
+        <td>86%</td>
+
+      </tr>
+
+      <tr/>
+
+    </table>
+
+      <hr width="80%" color="green"/>
+
+    <h3>Skill Set</h3>
+
+    <ol>
+
+      <li>
+
+        PROGRAMMING LANGUAGE:PYTHON</li>
+
+      <li>HTML  CSS</li>
+
+      <li>MS-EXCEL</li>
+
+      <li>MY SQL</li>
+
+    </ol>
+  </div> 
+  

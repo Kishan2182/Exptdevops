@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+</head>
+<body>
+    <h1><a href="https://github.com/minimalcss/minimal-form">Bill Form</a></h1>
+
+<form>
+	<label class="label" for="input">To</label>
+	<input class="input" type="text" id="input"><br><br>
+
+  <label class="label" for="input">Bill No.</label>
+	<input class="input" type="text" id="input"><br><br>
+  
+  <label class="label" for="input">Date</label>
+	<input class="input" type="text" id="input"><br><br>
+  
+  <div class="car">
+  <label class="label" for="input">Car details</label>
+	<input class="input" type="text" id="input"><br><br>
+  <label class="label" for="input">Car distance</label>
+	<input class="input" type="text" id="input"><br><br>
+  </div>
+<!--       <input type="button" id="add-car" name="add-car" value="Add car" /> -->
+  
+ <label class="label" for="input">CGST</label>
+	<input class="input" type="text" id="input"><br><br>
+ <label class="label" for="input">SGST</label>
+	<input class="input" type="text" id="input"><br><br>
+  
+    <input type="submit" value="Submit">
+
+
+</form>
+</body>
+</html>
